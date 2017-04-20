@@ -5,16 +5,19 @@ Liste de ressources web
 
 [Les principales étapes d’un projet web](https://www.alesiacom.com/blog/infographie-les-principales-etapes-dun-projet-web)
 
+[Exmple de cahier des charges](https://www.lafabriquedunet.fr/blog/exemple-cahier-des-charges-site-internet/)
 
 **Divers** 
 
 [File manager TinyMce](http://www.responsivefilemanager.com/index.php)
 
-
 [Exemple de géolocalisation en HTML5](http://verekia.com/demo/exemple-geolocalisation-html5/)
 
 [Exemple localisation gps via bouton](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation)
 
+[Articles/Tutos développement web (js/sf/php/composer...)](http://www.christophe-meneses.fr/articles/1)
+
+[Générateur de palette de couleurs pour site web](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 **Template Bootstrap**
 
@@ -62,3 +65,6 @@ http://pigne.org/teaching/
 
 [Guide pour Git](http://rogerdudler.github.io/git-guide/index.fr.html)
 
+**Wordpress**
+
+[10 plugins WordPress gratuits qui font aussi bien que les premiums](https://wpformation.com/10-plugins-gratuits-depassent-premiums/)
