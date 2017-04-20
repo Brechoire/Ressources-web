@@ -5,7 +5,7 @@ Liste de ressources web
 
 [Les principales étapes d’un projet web](https://www.alesiacom.com/blog/infographie-les-principales-etapes-dun-projet-web)
 
-[Exmple de cahier des charges](https://www.lafabriquedunet.fr/blog/exemple-cahier-des-charges-site-internet/)
+[Exemple de cahier des charges](https://www.lafabriquedunet.fr/blog/exemple-cahier-des-charges-site-internet/)
 
 **Divers** 
 
